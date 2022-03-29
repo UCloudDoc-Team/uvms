@@ -55,4 +55,4 @@
 
 针对部分常见问题的答疑解惑。
 
-* [语音消息服务（UVMS）常见问题](/uvms/questions.md)
+* [UVMS常见问题](/uvms/questions.md)
