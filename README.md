@@ -10,11 +10,11 @@
 
 面向使用语音服务入门级用户，全方位、多角度、深入浅出的给您介绍产品，从基本信息、术语解释、审核标准等方面帮您快速了解，从容选择。
 
-* [什么是语音消息服务](相对链接)
-* [术语解释](相对链接)
-* [审核标准](相对链接)
-* [服务协议](相对链接)
-* [产品动态](/uvms/_glossary.md)
+* [什么是语音消息服务](/uvms/introduction/definition.md)
+* [术语解释](/uvms/introduction/term.md)
+* [审核标准](/uvms/introduction/criteria.md)
+* [服务协议](/uvms/introduction/agreement.md)
+* [产品动态](/uvms/introduction/news.md)
 
 
 
