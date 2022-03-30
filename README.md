@@ -30,7 +30,7 @@
 
 面向语音消息服务意向用户，介绍使用方法、操作指南等，让您快速入门。
 
-* [快速入门](/uvms/start.md)
+* [快速入门](/uvms/guide/start.md)
 * 资质管理
   * [创建企业](/uvms/guide/qualifications/enterprise.md)
   * [创建应用](/uvms/guide/qualifications/applications.md)
