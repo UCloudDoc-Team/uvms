@@ -20,7 +20,7 @@
      * [创建任务](/uvms/guide/domestic/task.md)
      * [申请号码](/uvms/guide/domestic/number.md)
 * 相关文档
-   * [API文档](链接)
+   * [API文档](https://docs.ucloud.cn/api/uvms-api/send_uvms_message)
    * [SDK文档](链接)
 * 常见问题
    * [UVMS常见问题](/uvms/questions.md) <!-- 平台已支持三级及以下目录收起展开，为确保点击区域充分，包含三级目录的二级标题请勿添加链接 -->
