@@ -10,7 +10,7 @@
 * 购买及付费
    * [产品定价](/uvms/price.md)
 * 使用指南
-   * [快速入门](/uvms/start.md)
+   * [快速入门](/uvms/guide/start.md)
    * 资质管理
      * [创建企业](/uvms/guide/qualifications/enterprise.md)
      * [创建应用](/uvms/guide/qualifications/applications.md)
