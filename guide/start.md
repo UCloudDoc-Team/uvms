@@ -17,6 +17,8 @@
 
 ## 3.开通语音消息服务
 
+![开通服务.png](images/开通服务.png)
+
 * 勾选我已阅读并同意[UCloud语音消息服务协议](/uvms/introduction/agreement.md)，免费开通语音消息服务；勾选同意后，才可以进行企业资质认证。
 
 
