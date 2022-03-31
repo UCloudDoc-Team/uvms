@@ -47,7 +47,7 @@
 您可查看API/SDK文档，方便快速接入。
 
 * [API文档](https://docs.ucloud.cn/api/uvms-api/send_uvms_message)
-* [SDK文档](链接)
+* [SDK文档](/uvms/SDK.md)
 
 
 
