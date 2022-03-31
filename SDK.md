@@ -6,8 +6,8 @@
 
 |SDK|示例|GitHub地址|版本|
 |---|------|--------|-----|
-|Python SDK|[语音消息服务Python SDK示例](#_2)|[Python SDK](https://github.com/ucloud/ucloud-sdk-python3)|Python 3.5+|
-|Go SDK|[语音消息服务Go SDK示例](#_3使用指南)|[Go SDK](https://github.com/ucloud/ucloud-sdk-go)|Go 1.10+|
+|Python SDK|[UVMS Python Example](#_1）uvms-python-example)|[Python SDK](https://github.com/ucloud/ucloud-sdk-python3)|Python 3.5+|
+|Go SDK|[UVMS Go Example](#_2）uvms-go-example)|[Go SDK](https://github.com/ucloud/ucloud-sdk-go)|Go 1.10+|
 
 
 ## 一、准备工作
