@@ -6,8 +6,8 @@
 
 |SDK|示例|GitHub地址|版本|
 |---|------|--------|-----|
-|Python SDK|[UVMS Python Example](#_1）uvms-python-example)|[Python SDK](https://github.com/ucloud/ucloud-sdk-python3)|Python 3.5+|
-|Go SDK|[UVMS Go Example](#_2）uvms-go-example)|[Go SDK](https://github.com/ucloud/ucloud-sdk-go)|Go 1.10+|
+|Python SDK|[UVMS Python Example](https://github.com/ucloud/ucloud-developer-examples/tree/main/python-sdk/uvms)|[Python SDK](https://github.com/ucloud/ucloud-sdk-python3)|Python 3.5+|
+|Go SDK|[UVMS Go Example](https://github.com/ucloud/ucloud-developer-examples/tree/main/go-sdk/uvms)|[Go SDK](https://github.com/ucloud/ucloud-sdk-go)|Go 1.10+|
 
 
 ## 一、准备工作
@@ -100,39 +100,8 @@
 
 ### 1）UVMS Python Example
 
-#### Quickstart
-
-```shell
-export UCLOUD_PROJECT_ID=org-xxx
-export UCLOUD_PUBLIC_KEY=deIv************Lk7R_J9
-export UCLOUD_PRIVATE_KEY=t0ejC***********BxGclIU
-export UCLOUD_UVMS_TEMPLATE_ID=UVV*****Y
-export UCLOUD_UVMS_TEMPLATE_PARAM=2344
-export UCLOUD_UVMS_PHONE_NUMBER=188********
-```
-
-Run:
-
-```
-python3 ./main.go
-```
-
+* [点击查看示例](https://github.com/ucloud/ucloud-developer-examples/tree/main/python-sdk/uvms)
 
 ### 2）UVMS Go Example
 
-#### Quickstart
-
-```shell
-export UCLOUD_PROJECT_ID=org-xxx
-export UCLOUD_PUBLIC_KEY=deIv************Lk7R_J9
-export UCLOUD_PRIVATE_KEY=t0ejC***********BxGclIU
-export UCLOUD_UVMS_TEMPLATE_ID=UVV*****Y
-export UCLOUD_UVMS_TEMPLATE_PARAM=2344
-export UCLOUD_UVMS_PHONE_NUMBER=188********
-```
-
-Run:
-
-```
-go run ./main.go
-```
+* [点击查看示例](https://github.com/ucloud/ucloud-developer-examples/tree/main/go-sdk/uvms)
