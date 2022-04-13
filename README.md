@@ -49,6 +49,7 @@
 
 * [API文档](https://docs.ucloud.cn/api/uvms-api/send_uvms_message)
 * [SDK文档](/uvms/SDK.md)
+* [回执消息推送](/uvms/receipt message.md)
 
 
 
