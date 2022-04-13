@@ -22,5 +22,6 @@
 * 相关文档
    * [API文档](https://docs.ucloud.cn/api/uvms-api/send_uvms_message)
    * [SDK文档](/uvms/SDK.md)
+   * [回执消息推送](/uvms/receiptmessage.md)
 * 常见问题
    * [UVMS常见问题](/uvms/questions.md) <!-- 平台已支持三级及以下目录收起展开，为确保点击区域充分，包含三级目录的二级标题请勿添加链接 -->
