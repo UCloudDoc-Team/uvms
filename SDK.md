@@ -8,6 +8,7 @@
 |---|------|--------|-----|
 |Python SDK|[UVMS Python Example](https://github.com/ucloud/ucloud-developer-examples/tree/main/python-sdk/uvms)|[Python SDK](https://github.com/ucloud/ucloud-sdk-python3)|Python 3.5+|
 |Go SDK|[UVMS Go Example](https://github.com/ucloud/ucloud-developer-examples/tree/main/go-sdk/uvms)|[Go SDK](https://github.com/ucloud/ucloud-sdk-go)|Go 1.10+|
+|Java SDK|[UVMS Java Example](https://github.com/ucloud/ucloud-developer-examples/tree/main/java-sdk/uvms)|[Java SDK](https://github.com/ucloud/ucloud-sdk-java)|Java 1.8+|
 
 
 ## 一、准备工作
@@ -74,7 +75,7 @@
 
 * 参考 UCloud SDK [快速开始](https://docs.ucloud.cn/opensdk-python/quickstart)，安装 Python SDK；
 * 参考 UCloud SDK [快速开始](https://docs.ucloud.cn/opensdk-go/quickstart)，安装 Go SDK。
-
+* 参考 UCloud SDK [快速开始](https://docs.ucloud.cn/opensdk-java/quickstart)，安装 Java SDK。
 
 ### 2）参数说明
 
@@ -105,3 +106,7 @@
 ### 2）UVMS Go Example
 
 * [点击查看示例](https://github.com/ucloud/ucloud-developer-examples/tree/main/go-sdk/uvms)
+
+### 3）UVMS Java Example
+
+* [点击查看示例](https://github.com/ucloud/ucloud-developer-examples/tree/main/java-sdk/uvms)
