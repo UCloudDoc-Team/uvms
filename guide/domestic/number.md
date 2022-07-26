@@ -5,7 +5,7 @@
 
 ## 号码申请入口
 
->[立即申请号码](https://console-test03.ucloudadmin.com/uvms/interval)
+>[立即申请号码](https://console-test03.ucloudadmin.com/uvms/interval](https://console.ucloud.cn/uvms/interval)
 
 ## 1.号码申请管理页面
 
