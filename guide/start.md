@@ -69,4 +69,4 @@
 查询回执状态、查询数据统计等信息，支持如下几种方式：
 
 * 控制台查询：[点击查询](https://console.ucloud.cn/uvms/)
-* 配置回调地址：[点击配置](https://console.ucloud.cn/uvms/config)，回调对接文档请参考[回执消息推送](https://console.ucloud.cn/uvms/receiptmessage)
+* 配置回调地址：[点击配置](https://console.ucloud.cn/uvms/config)，回调对接文档请参考 [回执消息推送](https://docs.ucloud.cn/uvms/receiptmessage)
