@@ -5,7 +5,7 @@
 
 ## 创建应用入口
 
->[立即添加应用](https://console-test03.ucloudadmin.com/uvms/qualification/)
+>[立即添加应用](https://console.ucloud.cn/uvms/qualification/)
 
 
 ## 1.应用管理页面
