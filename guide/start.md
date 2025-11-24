@@ -61,7 +61,7 @@
 您可通过语音消息服务控制台或调用发送API/SDK，发起语音呼叫请求，对被叫号码进行语音模板播报。
 
 * 登陆语音消息服务控制台：[语音消息服务控制台](https://console.ucloud.cn/uvms/new)
-* 对接发送API或SDK：[API文档](https://docs.ucloud.cn/api/uvms-api/send_uvms_message)、[SDK文档]()
+* 对接发送API或SDK：[API文档](https://docs.ucloud.cn/api/uvms-api/send_uvms_message)、[SDK文档](https://docs.ucloud.cn/uvms/SDK)
 
 
 ## 10.查询回执
